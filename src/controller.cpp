@@ -41,6 +41,10 @@ int main (int argc, char **argv){
  controller ctrl;
  ros::spin();
 }
+<<<<<<< HEAD
 
 //TEST GITHUB
 //TEST GITHUB2
+=======
+//TEST GITHUB
+//test github
